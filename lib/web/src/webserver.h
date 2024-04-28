@@ -12,7 +12,7 @@
  */
 String oldDir;
 
-#define APP "ESPCompuTone File Utility"
+#define APP "YOUR APP NAME"
 
 /**
  * @brief Web Server Declaration
