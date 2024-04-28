@@ -12,8 +12,6 @@
  */
 String oldDir;
 
-#define APP "YOUR APP NAME"
-
 /**
  * @brief Web Server Declaration
  *

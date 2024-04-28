@@ -6,6 +6,11 @@
  * @date 2024-04
  */
 
+/**
+ * @brief App name version and revision showed in webserver
+ * 
+ */
+#define APP "YOUR APP NAME"
 #define VERSION 0.1
 #define REVISION 0
 
